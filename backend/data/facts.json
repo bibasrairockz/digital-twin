@@ -1,0 +1,23 @@
+{
+  "full_name": "Bibas Rai",
+  "name": "Bibas",
+  "current_role": "AI Engineer / Machine Learning Engineer (Open to roles)",
+  "location": "United Kingdom",
+  "email": "bibasrai6@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/bibas-rai-6071b4127/",
+  "specialties": [
+    "Generative AI & LLM Systems",
+    "Machine Learning Engineering",
+    "RAG Pipelines & AI Agents",
+    "Cloud Deployment (AWS & Azure)",
+    "MLOps & AI System Design"
+  ],
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "MSc Artificial Intelligence",
+      "institution": "University of Surrey",
+      "year": "2024"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+I am an AI Engineer and Machine Learning Engineer with over 4 years of experience in artificial intelligence, machine learning, and software engineering. My expertise includes generative AI, large language models (LLMs), retrieval-augmented generation (RAG) systems, machine learning pipelines, cloud deployment on AWS and Azure, and building scalable AI-driven applications.
+
+Currently, I’m focused on building production-grade LLM systems, AI agents, and end-to-end AI platforms, including chatbots, automation tools, and intelligent assistants for real-world business use cases.
+
+My background includes developing and deploying deep learning models at Amazon for delivery route optimisation, leading the development of an LLM-based chatbot at the University of Southampton using LangChain and Azure, and working on multiple applied AI research projects involving NLP, computer vision, reinforcement learning, and 3D reconstruction.
