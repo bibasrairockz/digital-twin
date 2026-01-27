@@ -12,7 +12,8 @@
   }
 }
 
-.animate-bounce {
+.animate-bounce {git add frontend/components/twin.tsx
+git add frontend/public/avatar.png
   animation: bounce 1.4s infinite;
 }
 
